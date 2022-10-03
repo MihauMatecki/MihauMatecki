@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Software Testing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Discord - Michał Matecki
+- 📫 How to reach me on Discord - Michał Matecki#6326
 
 <!---
 MihauMatecki/MihauMatecki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
